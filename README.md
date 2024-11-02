@@ -1,10 +1,13 @@
 # Transformada de Fourier no Efeito Ripple
 Aplicação da Transformada de Fourier para criação do efeito ripple que cria ondas concêntricas.
 
+A intenção deste projeto acadêmico é uma aplicação dos conceitos da transformada de Fourier, afim
+consolidar conhecimento aplicando em um projeto prático de tema livre, que neste caso é a replicação
+do efeito ripple que acontece por exemplo quando uma gota d'água toca uma superfice líquida provocando
+o efeito formamdo-se ondas bidimensionais que deslocam-se do centro para fora.
+
 # Introdução
 A Transformada de Fourier é uma ferramenta matemática que permite decompor uma função em suas componentes de frequência.
-Neste projeto, utilizamos a Transformada de Fourier para criar um efeito visual de ripple que simula a propagação de     
-ondas na água quando uma gota cai.  
 
 # Transformada de Fourier 
 Transformada de Fourier Contínua

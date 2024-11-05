@@ -40,6 +40,12 @@ def generate_ripple_with_fourier(size=512, frame=0, speed=0.05):
 
     return ripple_final
 
+#%%
+#Teste da imagem
+ripple = generate_ripple_with_fourier(512,10)
+plt.imshow(ripple, cmap='gray', vmin=0, vmax=1)
+
+#%%
 # Geração das imagens
 num_frames = 90
 size = 512
